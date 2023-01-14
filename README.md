@@ -14,7 +14,7 @@ Do you have an idea, what to write here? Tell/Write me!
 * at leat one .set-File with parameters to test.
 * .ini-File (sample in this repository)
 * Batch-File (.bat/.cmd) (sample in this repository)
-* customize/merge the .ini-file with yours from E:\Trading\MT5-2301\Config\common.ini
+* customize/merge the .ini-file with yours from E:\Trading\MT5-2301\Config\common.ini (use account etc from common.ini)
 * 
 
 ## How to put your files
