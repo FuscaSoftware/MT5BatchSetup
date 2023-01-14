@@ -34,7 +34,7 @@ I like clean file structures not given by Windows.
 ## My usage
 
 * I do NEVER use MT5 non-portable. I want to have a clear file and path structure and choose the used disk by myself, nothing hidden in %APPDATA% or some other semi-hidden crap directory.
-* To use MT5 portable only you have to pay attention on your start (desktop) icons
+* To use MT5 portable only, you have to pay attention on your shortcut (desktop) icons and .lnk files. You can/have to add the ```/portable``` parameter there as well.
 
 
 # Don`t get margin-called!
