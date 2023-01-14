@@ -9,6 +9,10 @@ Do you have an idea, what to write here? Tell/Write me!
 * You need Metatrader 5 - of course
 * SetUp/Login an account it`s able to run a test
 * Increase the number of candles in the settings and download some more historical data.
+* the expert advisor you want to test
+* at leat one .set-File with parameters to test.
+* .ini-File (sample in this repository)
+* Batch-File (.bat/.cmd) (sample in this repository)
 
 ## How to put your files
 
