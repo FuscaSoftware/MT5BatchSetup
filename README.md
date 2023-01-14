@@ -4,6 +4,8 @@
 
 Do you have an idea, what to write here? Tell/Write me!
 
+I have got most ideas and informations from here: https://www.metatrader5.com/en/terminal/help/start_advanced/start
+
 ## What do you need
 
 * You need Metatrader 5 - of course
