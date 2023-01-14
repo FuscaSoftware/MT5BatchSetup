@@ -47,4 +47,4 @@ I like clean file structures not given by Windows.
 
 # Licencse
 
-* If this Repo is helping you, spend my at least one beer if we ever meet. Or recomend me or my services.
+* If this Repo is helping you, spend me at least one beer, if we ever meet. Or recomend me or my services. Of course feel free to send me some money! ;)
