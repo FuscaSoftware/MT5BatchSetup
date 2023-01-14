@@ -16,6 +16,6 @@ echo %date% - %time%
 ::
 
 echo "Finished!"
-:: After the work is done I like to see what happed.
+:: After the work is done I like to see what happend.
 PAUSE
 
