@@ -14,8 +14,8 @@ Do you have an idea, what to write here? Tell/Write me!
 
 I like clean file structures not given by Windows.
 
-
-  E:\                       <-- My third hard disk of you have only one, it`s c:\ of course
+```
+  E:\                       <-- My third hard disk, if you have only one, it`s c:\ of course
   |-Trading\                <-- My folder you can choose another, of course
           |-MT5-2301\       <-- This is your Metatrader Installation
           |-start_mt.bat
@@ -26,6 +26,7 @@ I like clean file structures not given by Windows.
   E:\Trading\MT5-2301\tester_US500.ini                            <-- main config
   E:\Trading\MT5-2301\MQL5\Profiles\Tester\br504-016_US500.set    <-- of course you can choose another filename, but don`t forget to change its name in the .ini-File
   E:\Trading\MT5-2301\reports                                     <-- In this folder your results will be created.
+```
           
   I found out this structure works, other structures may work, some others won`t.
 
